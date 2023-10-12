@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px"  width=100% src="https://cdn-hjjbh.nitrocdn.com/NUieNuHBZnIwKENrkVrRTxbvvmcPrKtl/assets/images/optimized/rev-efe8267/www.qamadness.com/wp-content/uploads/2019/04/EasyCheck-CPKLaunch-Blog.gif" />
+<img align="center" style="margin-bottom:100px"  height=400px width=100% src="https://cdn-hjjbh.nitrocdn.com/NUieNuHBZnIwKENrkVrRTxbvvmcPrKtl/assets/images/optimized/rev-efe8267/www.qamadness.com/wp-content/uploads/2019/04/EasyCheck-CPKLaunch-Blog.gif" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">❤️ Sou um profissional com formação em Bacharel de Sistemas da Informação pela Universidade Estácio de Sá e estou atualmente cursando Gestão da Tecnologia da Informação na mesma instituição. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.</p>&nbsp;
