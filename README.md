@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/tiagomata/tiagomata/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">❤️ Sou um profissional com formação em Bacharel de Sistemas da Informação pela Universidade Estácio de Sá e estou atualmente cursando Gestão da Tecnologia da Informação na mesma instituição. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=tiagomata&theme=radical&mode=weekly" />
@@ -67,7 +67,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/tiagomata/tiagomata/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">❤️ Sou um profissional com formação em Bacharel de Sistemas da Informação pela Universidade Estácio de Sá e estou atualmente cursando Gestão da Tecnologia da Informação na mesma instituição. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=tiagomata&theme=radical&mode=weekly" />
