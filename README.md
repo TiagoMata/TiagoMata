@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px"  width=100% src="https://github.com/tiagomata/tiagomata/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px"  width=100% src="https://cdn-hjjbh.nitrocdn.com/NUieNuHBZnIwKENrkVrRTxbvvmcPrKtl/assets/images/optimized/rev-efe8267/www.qamadness.com/wp-content/uploads/2019/04/EasyCheck-CPKLaunch-Blog.gif" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">❤️ Sou um profissional com formação em Bacharel de Sistemas da Informação pela Universidade Estácio de Sá e estou atualmente cursando Gestão da Tecnologia da Informação na mesma instituição. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.</p>&nbsp;
