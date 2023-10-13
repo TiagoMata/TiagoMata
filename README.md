@@ -4,10 +4,14 @@
 
 <p align="center">❤️ Sou um profissional com formação em Bacharel de Sistemas da Informação pela Universidade Estácio de Sá e estou atualmente cursando Gestão da Tecnologia da Informação na mesma instituição. Minhas habilidades técnicas e experiência estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=tiagomata&theme=radical&mode=weekly" />
+<div align="center>
+   <a href="https://github.com/tiagomata" > 
+   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=tiagomata&theme=radical&mode=weekly" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMata&layout=compact&langs_count=6&theme=tokyonight"/> 
+  </a>
+</div>
+<div style="display: inline_block"><br>
 
- </div>
  
  &nbsp;
  &nbsp;
