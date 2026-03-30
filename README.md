@@ -7,8 +7,8 @@
 <div align="center>
    <a href="https://github.com/tiagomata" > 
    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=tiagomata&theme=radical&mode=weekly" />
-   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomata&layout=compact&langs_count=6&theme=radical&mode=weekly" /> 
-  </a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomata&layout=compact&langs_count=6&theme=radical" />
+</a>
 </div>
 <div style="display: inline_block"><br>
 
