@@ -1,6 +1,6 @@
 <img width=100% src="https://cdn-hjjbh.nitrocdn.com/NUieNuHBZnIwKENrkVrRTxbvvmcPrKtl/assets/images/optimized/rev-efe8267/www.qamadness.com/wp-content/uploads/2019/04/EasyCheck-CPKLaunch-Blog.gif" />
 
-<h1 align="center">👋 Fala, eu sou o Tiago Mata</h1>
+<h1 align="center">👋 Fala, me Tiago Mata</h1>
 
 <p align="center">
 💻 QA Engineer | Testes de Software <br>
