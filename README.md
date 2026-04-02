@@ -45,7 +45,7 @@ Sou profissional focado em **Qualidade de Software (QA)**, com experiência em:
 ---
 
 ## 📚 Estudando no momento
-
+![ISTQB](https://img.shields.io/badge/ISTQB-CTFL%20(in%20progress)-orange?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ---
