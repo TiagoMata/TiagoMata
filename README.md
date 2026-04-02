@@ -4,7 +4,8 @@
 
 <p align="center">
 💻 QA Engineer | Testes de Software <br>
-🎓 Sistemas de Informação + Gestão de TI <br>
+🎓 Sistemas de Informação | Bacharelado <br>
+🎓 Engenharia de Software ênfase em QA | Pós Graduação <br> 
 🚀 Foco em qualidade, automação e melhoria contínua
 </p>
 
@@ -36,11 +37,14 @@ Sou profissional focado em **Qualidade de Software (QA)**, com experiência em:
 
 ## ⚙️ Stack Principal
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
 
 ---
 
